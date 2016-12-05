@@ -1,0 +1,180 @@
+*	{margin: 0;
+	padding: 0;
+	text-decoration: none;}
+	
+ul	{
+    list-style-type: none;}
+	
+html		{background-color: mediumgrey;}	
+	
+header	{width: 960px;
+		height: 80px;
+		background-image: url("../images/carbonfiber.png");
+		color: white;
+		text-align: right;
+		margin-top:30px;
+		padding-top: 10px;
+		padding-bottom: 50px;}	
+		
+header h3{text-align: center;}
+
+header h1 {margin-top: 30px;
+		 text-align: center;} 
+	
+nav		{background-color: lightgrey;
+		 text-align:center;
+		 position: fixed;
+		 font-size: 26px;
+		 top:0;
+		 width:960px;}
+
+body a	{color: black;}
+
+		 
+
+nav a:hover	{color: white;}
+
+
+body	{margin:0 auto;
+		 width: 960px;
+		 height:500px;
+		 background-image: url("../images/bluebackground.jpg")}
+		 		 
+
+
+
+#gameinfo	{float:left;
+		margin-top: 30px;
+		width: 300px;
+		padding-top: 20px;
+		background-color: darkgrey;
+		}	 
+		
+#gameinfo h1	{margin-left:10px;
+			 margin-right: 10px;
+			 text-align:center;
+			 margin-top: 20px;}
+			 
+#gameinfo h3	{margin-left:30px;
+			 margin-right: 30px;
+			 margin-top:50px;
+			 text-align:center;
+			padding-top:45px;
+			 padding-bottom: 55px;}
+			 
+#webdev	{float:left;
+		margin-top: 30px;
+		margin-left: 30px;
+		padding-bottom: 30px;
+		width: 300px;
+		background-color: lightgrey;
+		}	 			 
+			 
+#webdev h1	{margin-left:10px;
+			 margin-right: 10px;
+			 margin-top: 20px;
+			 text-align: center;}
+			 
+#webdev h3	{margin-left:30px;
+			  margin-right: 30px;
+			  margin-top:50px;
+			 text-align:center;
+			 padding-bottom: 30px;}
+			 
+#softwaredev	{float:left;
+			margin-top: 30px;
+			margin-left: 30px;
+			width: 300px;
+			background-color: grey;
+			}	 			 
+			 
+#softwaredev h1	{margin-left:10px;
+				margin-right: 10px;
+				margin-top: 20px;
+				text-align:center;}
+			 
+#softwaredev h3	{margin-left:30px;
+			  margin-right: 30px;
+			  margin-top:50px;
+			 text-align:center;
+			 padding-bottom: 60px;}
+
+#gamebutton	{float:left;}
+
+#webbutton	{float: left;
+		margin-left: 30px;}
+	
+#softwarebutton	{float:left;
+				margin-left: 30px;}				
+
+#info		{background-color: #ffffff;
+		padding-top:60px;
+		border: 1px;
+		color: black;}
+
+#info h1	{text-align: left;
+				margin-left: 30px;
+				margin-top: 350px;}
+				
+#info p	{font-size: 22px;
+			margin-left: 30px;
+			margin-right: 30px;}
+			
+#contactinfo	{margin-left: 30px;
+				margin-top: 50px;
+				padding-bottom: 50px;}
+
+footer	{text-align: center;
+	background-color: grey;}
+
+			
+ /* Dropdown Button */
+.dropbtn {
+    background-color: lightgrey;
+    color: black;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #2fb4f5;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+	
+			
+
+
+
+
+		 
+
+
+		
